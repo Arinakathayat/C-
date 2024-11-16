@@ -1,7 +1,5 @@
 #include <iostream>
 using namespace std;
-
-
 // Base class
 class Vehicle {
 public:
