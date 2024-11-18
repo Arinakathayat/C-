@@ -2,6 +2,7 @@
 using namespace std;
 // Base class
 class Vehicle {
+
 public:
     Vehicle() {
         cout << "Vehicle created" << endl;
@@ -32,6 +33,7 @@ public:
         cout << "This is a Brand" << endl;
     }
 };
+
 
 // Derived class from both Car and Brand (Hybrid Inheritance: Single + Multiple Inheritance)
 class Sedan : public Car, public Brand {
