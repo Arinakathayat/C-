@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 // Base class
-class Vehicle {
-
+class Vehicle 
+{
 public:
     Vehicle() {
         cout << "Vehicle created" << endl;
