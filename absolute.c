@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<iostream.h>
 using namespace std;
 Template <class T>
 T abs (Tn)
