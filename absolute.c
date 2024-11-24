@@ -16,3 +16,4 @@ cout<<"Absolute value of a="<<abs(a)<<endl;
 cout<<"Absolute value of b="<<abs(a)<<endl;
 return 0;
 }
+
